@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ti-rudin.github.io/notes-wniqg2/sitemap.xml
